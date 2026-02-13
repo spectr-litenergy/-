@@ -108,7 +108,7 @@ nutrilog/
 ## Контакты
 
 Автор: [Гришин Иван]  
-GitHub: [@yourusername](https://github.com/spectr-litenergy)  
+GitHub: [https://github.com/spectr-litenergy] 
 Email: ivanvannikol@gmail.com
 
 ---
